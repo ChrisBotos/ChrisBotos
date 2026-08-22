@@ -2,8 +2,8 @@ Computational biology researcher and MSc student in Bioinformatics & Systems
 Biology (UvA/VU). I build mechanistic and inference models of RNA Pol II
 transcription, and apply deep learning to multi-omics imaging.
 
-**Stack:** Python, Cython, stochastic/Markov-chain modeling, vision
-transformers (DINO ViT) for image analysis.
+**Stack across these projects:** Python, Cython, stochastic/Markov-chain
+modeling, and vision transformers (DINO ViT) for image analysis.
 
 ## Now: MSc placement, Netherlands Cancer Institute (Sep 2026-Jun 2027)
 
@@ -11,7 +11,9 @@ Van Steensel group, Division of Gene Regulation. Extending PARM, a
 deep-learning promoter-activity CNN published in Nature (doi:
 10.1038/s41586-025-10093-z), to endogenous transcription in K562, benchmarked
 against Activity-by-Contact. Daily supervision by Oscar Garcia Blay,
-co-supervised by Vinicius Franceschini-Santos.
+co-supervised by Vinicius Franceschini-Santos. The analysis pipeline
+(`metron`, private) already runs the raw qPRO-seq mapping, GENCODE-resolved
+window counting, and a PARM-reproduction step ahead of the official start.
 
 ## Ongoing: Research Assistant, IMBB-FORTH (Sep 2023-present)
 
