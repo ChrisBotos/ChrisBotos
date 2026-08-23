@@ -21,7 +21,9 @@ placement's data.
 ## Ongoing: Research Assistant, IMBB-FORTH (Sep 2023-present)
 
 Under Matthieu Lavigne, building a four-part framework that simulates, solves,
-and infers RNA Pol II transcription kinetics end to end:
+and infers RNA Pol II transcription kinetics end to end - continuing a BSc
+thesis that modeled transcription in silico (University of Crete, thesis
+grade 10.00/10):
 
 - **POLYARIS**: stochastic simulation of Pol II via a TASEP (Totally Asymmetric
   Simple Exclusion Process) model with spatial exclusion, pausing, and obstacle
