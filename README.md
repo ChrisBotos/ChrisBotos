@@ -13,7 +13,10 @@ deep-learning promoter-activity CNN published in Nature (doi:
 against Activity-by-Contact. Daily supervision by Oscar Garcia Blay,
 co-supervised by Vinicius Franceschini-Santos. The analysis pipeline
 (`metron`, private) already runs the raw qPRO-seq mapping, GENCODE-resolved
-window counting, and a PARM-reproduction step ahead of the official start.
+window counting, and a PARM-reproduction step ahead of the official start, and
+already carries the project's reproducibility scaffolding: every input
+traced to a checksummed manifest, every threshold preregistered ahead of the
+placement's data.
 
 ## Ongoing: Research Assistant, IMBB-FORTH (Sep 2023-present)
 
@@ -33,6 +36,10 @@ and infers RNA Pol II transcription kinetics end to end:
   MLE, no stochastic search.
 - **SCAN**: downstream statistical analysis and figure generation across the
   suite.
+
+POLYARIS, KINEMA, and GENEFIT each carry an automated pytest suite run on every
+change; GENEFIT is additionally validated against synthetic ground-truth data
+before being applied to real sequencing data.
 
 A first-author manuscript on this work is in prep; the code is private, with
 `Private_Projects_Showcase` (pinned below) marking that it exists. Happy to
