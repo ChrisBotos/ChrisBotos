@@ -2,6 +2,9 @@ Computational biology researcher and MSc student in Bioinformatics & Systems
 Biology (UvA/VU). I build mechanistic and inference models of RNA Pol II
 transcription, and apply deep learning to multi-omics imaging.
 
+**BSc thesis (transcription simulation, University of Crete): 10.00/10.**
+MSc (Bioinformatics & Systems Biology, UvA/VU): 8.05, in progress.
+
 **Stack across these projects:** Python, Cython, stochastic/Markov-chain
 modeling, and vision transformers (DINO ViT) for image analysis.
 
@@ -22,8 +25,7 @@ placement's data.
 
 Under Matthieu Lavigne, building a four-part framework that simulates, solves,
 and infers RNA Pol II transcription kinetics end to end - continuing a BSc
-thesis that modeled transcription in silico (University of Crete, thesis
-grade 10.00/10):
+thesis that modeled transcription in silico (University of Crete):
 
 - **POLYARIS**: stochastic simulation of Pol II via a TASEP (Totally Asymmetric
   Simple Exclusion Process) model with spatial exclusion, pausing, and obstacle
