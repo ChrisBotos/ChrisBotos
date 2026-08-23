@@ -45,7 +45,7 @@ POLYARIS, KINEMA, and GENEFIT each carry an automated pytest suite run on every
 change; GENEFIT is additionally validated against synthetic ground-truth data
 before being applied to real sequencing data.
 
-A first-author manuscript on this work is in prep; the code is private, with
+This research is ongoing; the code is private, with
 `Private_Projects_Showcase` (pinned below) marking that it exists. Happy to
 talk through it directly on request.
 
