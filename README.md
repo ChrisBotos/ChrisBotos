@@ -13,9 +13,9 @@ deep-learning promoter-activity CNN published in Nature (doi:
 against Activity-by-Contact. Daily supervision by Oscar Garcia Blay,
 co-supervised by Vinicius Franceschini-Santos. The analysis pipeline
 (`metron`, private) already runs the raw qPRO-seq mapping, GENCODE-resolved
-window counting, and a PARM-reproduction step ahead of the official start, and
-already carries the project's reproducibility scaffolding: every input
-traced to a checksummed manifest, every threshold preregistered ahead of the
+window counting, and a PARM-reproduction step ahead of the official start. It
+already carries the project's reproducibility scaffolding: every input traced
+to a checksummed manifest, every threshold preregistered ahead of the
 placement's data.
 
 ## Ongoing: Research Assistant, IMBB-FORTH (Sep 2023-present)
